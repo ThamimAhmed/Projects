@@ -1,4 +1,4 @@
-# Morse Code Converter by Thamim Ahmed
+# Morse Code Converter by Mohammed Thamim Ahmed
 # Task: You will use what you've learnt to create a text-based 
 # (command line) program that takes any String input and converts it into 
 # Morse Code.
